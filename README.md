@@ -53,3 +53,9 @@ public static void main(String[] args) {
         }
     }
 ```
+
+# Запуск примера
+Для запуска примера нужно выполнить следующую команду
+```bash
+./gradlew run
+```
